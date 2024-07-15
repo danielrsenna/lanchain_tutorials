@@ -1,3 +1,4 @@
+# Baseado nos vídeos da playlist https://www.youtube.com/watch?v=ekpnVh-l3YA&list=PL4HikwTaYE0GEs7lvlYJQcvKhq0QZGRVn&ab_channel=LeonvanZyl
 from dotenv import load_dotenv
 import os
 load_dotenv()
